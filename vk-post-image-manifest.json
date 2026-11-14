@@ -1,0 +1,314 @@
+{
+  "description": "Prepared image attachment mapping. Images are uploaded to group albums but are NOT yet attached to postponed posts while VK captcha blocks editing.",
+  "created_on": "2026-11-14",
+  "groups": {
+    "mtg": {
+      "group_id": 172549108,
+      "post_images": [
+        {
+          "post_id": 18,
+          "photo_id": "photo-172549108_457239087",
+          "image_url": "https://raw.githubusercontent.com/konversiya100/img/main/covers/mtg/post-01.jpg",
+          "attached": false
+        },
+        {
+          "post_id": 19,
+          "photo_id": "photo-172549108_457239077",
+          "image_url": "https://raw.githubusercontent.com/konversiya100/img/main/covers/mtg/post-02.jpg",
+          "attached": false
+        },
+        {
+          "post_id": 20,
+          "photo_id": "photo-172549108_457239078",
+          "image_url": "https://raw.githubusercontent.com/konversiya100/img/main/covers/mtg/post-03.jpg",
+          "attached": false
+        },
+        {
+          "post_id": 21,
+          "photo_id": "photo-172549108_457239079",
+          "image_url": "https://raw.githubusercontent.com/konversiya100/img/main/covers/mtg/post-04.jpg",
+          "attached": false
+        },
+        {
+          "post_id": 22,
+          "photo_id": "photo-172549108_457239080",
+          "image_url": "https://raw.githubusercontent.com/konversiya100/img/main/covers/mtg/post-05.jpg",
+          "attached": false
+        },
+        {
+          "post_id": 23,
+          "photo_id": "photo-172549108_457239081",
+          "image_url": "https://raw.githubusercontent.com/konversiya100/img/main/covers/mtg/post-06.jpg",
+          "attached": false
+        },
+        {
+          "post_id": 24,
+          "photo_id": "photo-172549108_457239082",
+          "image_url": "https://raw.githubusercontent.com/konversiya100/img/main/covers/mtg/post-07.jpg",
+          "attached": false
+        },
+        {
+          "post_id": 25,
+          "photo_id": "photo-172549108_457239083",
+          "image_url": "https://raw.githubusercontent.com/konversiya100/img/main/covers/mtg/post-08.jpg",
+          "attached": false
+        },
+        {
+          "post_id": 26,
+          "photo_id": "photo-172549108_457239084",
+          "image_url": "https://raw.githubusercontent.com/konversiya100/img/main/covers/mtg/post-09.jpg",
+          "attached": false
+        },
+        {
+          "post_id": 27,
+          "photo_id": "photo-172549108_457239085",
+          "image_url": "https://raw.githubusercontent.com/konversiya100/img/main/covers/mtg/post-10.jpg",
+          "attached": false
+        },
+        {
+          "post_id": 28,
+          "photo_id": "photo-172549108_457239086",
+          "image_url": "https://raw.githubusercontent.com/konversiya100/img/main/covers/mtg/post-11.jpg",
+          "attached": false
+        },
+        {
+          "post_id": 29,
+          "photo_id": "photo-172549108_457239088",
+          "image_url": "https://raw.githubusercontent.com/konversiya100/img/main/covers/mtg/post-12.jpg",
+          "attached": false
+        }
+      ]
+    },
+    "aircon": {
+      "group_id": 39737542,
+      "post_images": [
+        {
+          "post_id": 74,
+          "photo_id": "photo-39737542_457239045",
+          "image_url": "https://raw.githubusercontent.com/konversiya100/img/main/covers/aircon/post-01.jpg",
+          "attached": false
+        },
+        {
+          "post_id": 75,
+          "photo_id": "photo-39737542_457239046",
+          "image_url": "https://raw.githubusercontent.com/konversiya100/img/main/covers/aircon/post-02.jpg",
+          "attached": false
+        },
+        {
+          "post_id": 76,
+          "photo_id": "photo-39737542_457239047",
+          "image_url": "https://raw.githubusercontent.com/konversiya100/img/main/covers/aircon/post-03.jpg",
+          "attached": false
+        },
+        {
+          "post_id": 77,
+          "photo_id": "photo-39737542_457239048",
+          "image_url": "https://raw.githubusercontent.com/konversiya100/img/main/covers/aircon/post-04.jpg",
+          "attached": false
+        },
+        {
+          "post_id": 78,
+          "photo_id": "photo-39737542_457239049",
+          "image_url": "https://raw.githubusercontent.com/konversiya100/img/main/covers/aircon/post-05.jpg",
+          "attached": false
+        },
+        {
+          "post_id": 79,
+          "photo_id": "photo-39737542_457239050",
+          "image_url": "https://raw.githubusercontent.com/konversiya100/img/main/covers/aircon/post-06.jpg",
+          "attached": false
+        },
+        {
+          "post_id": 80,
+          "photo_id": "photo-39737542_457239051",
+          "image_url": "https://raw.githubusercontent.com/konversiya100/img/main/covers/aircon/post-07.jpg",
+          "attached": false
+        },
+        {
+          "post_id": 81,
+          "photo_id": "photo-39737542_457239052",
+          "image_url": "https://raw.githubusercontent.com/konversiya100/img/main/covers/aircon/post-08.jpg",
+          "attached": false
+        },
+        {
+          "post_id": 82,
+          "photo_id": "photo-39737542_457239053",
+          "image_url": "https://raw.githubusercontent.com/konversiya100/img/main/covers/aircon/post-09.jpg",
+          "attached": false
+        },
+        {
+          "post_id": 83,
+          "photo_id": "photo-39737542_457239054",
+          "image_url": "https://raw.githubusercontent.com/konversiya100/img/main/covers/aircon/post-10.jpg",
+          "attached": false
+        },
+        {
+          "post_id": 84,
+          "photo_id": "photo-39737542_457239055",
+          "image_url": "https://raw.githubusercontent.com/konversiya100/img/main/covers/aircon/post-11.jpg",
+          "attached": false
+        },
+        {
+          "post_id": 85,
+          "photo_id": "photo-39737542_457239056",
+          "image_url": "https://raw.githubusercontent.com/konversiya100/img/main/covers/aircon/post-12.jpg",
+          "attached": false
+        }
+      ]
+    },
+    "jk": {
+      "group_id": 114980281,
+      "post_images": [
+        {
+          "post_id": 1703,
+          "photo_id": "photo-114980281_457240307",
+          "image_url": "https://raw.githubusercontent.com/konversiya100/img/main/covers/jk/post-01.jpg",
+          "attached": false
+        },
+        {
+          "post_id": 1704,
+          "photo_id": "photo-114980281_457240308",
+          "image_url": "https://raw.githubusercontent.com/konversiya100/img/main/covers/jk/post-02.jpg",
+          "attached": false
+        },
+        {
+          "post_id": 1705,
+          "photo_id": "photo-114980281_457240309",
+          "image_url": "https://raw.githubusercontent.com/konversiya100/img/main/covers/jk/post-03.jpg",
+          "attached": false
+        },
+        {
+          "post_id": 1706,
+          "photo_id": "photo-114980281_457240310",
+          "image_url": "https://raw.githubusercontent.com/konversiya100/img/main/covers/jk/post-04.jpg",
+          "attached": false
+        },
+        {
+          "post_id": 1707,
+          "photo_id": "photo-114980281_457240311",
+          "image_url": "https://raw.githubusercontent.com/konversiya100/img/main/covers/jk/post-05.jpg",
+          "attached": false
+        },
+        {
+          "post_id": 1708,
+          "photo_id": "photo-114980281_457240312",
+          "image_url": "https://raw.githubusercontent.com/konversiya100/img/main/covers/jk/post-06.jpg",
+          "attached": false
+        },
+        {
+          "post_id": 1709,
+          "photo_id": "photo-114980281_457240313",
+          "image_url": "https://raw.githubusercontent.com/konversiya100/img/main/covers/jk/post-07.jpg",
+          "attached": false
+        },
+        {
+          "post_id": 1713,
+          "photo_id": "photo-114980281_457240314",
+          "image_url": "https://raw.githubusercontent.com/konversiya100/img/main/covers/jk/post-08.jpg",
+          "attached": false
+        },
+        {
+          "post_id": 1714,
+          "photo_id": "photo-114980281_457240315",
+          "image_url": "https://raw.githubusercontent.com/konversiya100/img/main/covers/jk/post-09.jpg",
+          "attached": false
+        },
+        {
+          "post_id": 1710,
+          "photo_id": "photo-114980281_457240316",
+          "image_url": "https://raw.githubusercontent.com/konversiya100/img/main/covers/jk/post-10.jpg",
+          "attached": false
+        },
+        {
+          "post_id": 1711,
+          "photo_id": "photo-114980281_457240317",
+          "image_url": "https://raw.githubusercontent.com/konversiya100/img/main/covers/jk/post-11.jpg",
+          "attached": false
+        },
+        {
+          "post_id": 1712,
+          "photo_id": "photo-114980281_457240318",
+          "image_url": "https://raw.githubusercontent.com/konversiya100/img/main/covers/jk/post-12.jpg",
+          "attached": false
+        }
+      ]
+    },
+    "atelier": {
+      "group_id": 54956355,
+      "post_images": [
+        {
+          "post_id": 43,
+          "photo_id": "photo-54956355_457239046",
+          "image_url": "https://raw.githubusercontent.com/konversiya100/img/main/covers/atelier/post-01.jpg",
+          "attached": false
+        },
+        {
+          "post_id": 44,
+          "photo_id": "photo-54956355_457239047",
+          "image_url": "https://raw.githubusercontent.com/konversiya100/img/main/covers/atelier/post-02.jpg",
+          "attached": false
+        },
+        {
+          "post_id": 45,
+          "photo_id": "photo-54956355_457239048",
+          "image_url": "https://raw.githubusercontent.com/konversiya100/img/main/covers/atelier/post-03.jpg",
+          "attached": false
+        },
+        {
+          "post_id": 46,
+          "photo_id": "photo-54956355_457239049",
+          "image_url": "https://raw.githubusercontent.com/konversiya100/img/main/covers/atelier/post-04.jpg",
+          "attached": false
+        },
+        {
+          "post_id": 47,
+          "photo_id": "photo-54956355_457239050",
+          "image_url": "https://raw.githubusercontent.com/konversiya100/img/main/covers/atelier/post-05.jpg",
+          "attached": false
+        },
+        {
+          "post_id": 48,
+          "photo_id": "photo-54956355_457239051",
+          "image_url": "https://raw.githubusercontent.com/konversiya100/img/main/covers/atelier/post-06.jpg",
+          "attached": false
+        },
+        {
+          "post_id": 49,
+          "photo_id": "photo-54956355_457239052",
+          "image_url": "https://raw.githubusercontent.com/konversiya100/img/main/covers/atelier/post-07.jpg",
+          "attached": false
+        },
+        {
+          "post_id": 50,
+          "photo_id": "photo-54956355_457239053",
+          "image_url": "https://raw.githubusercontent.com/konversiya100/img/main/covers/atelier/post-08.jpg",
+          "attached": false
+        },
+        {
+          "post_id": 51,
+          "photo_id": "photo-54956355_457239054",
+          "image_url": "https://raw.githubusercontent.com/konversiya100/img/main/covers/atelier/post-09.jpg",
+          "attached": false
+        },
+        {
+          "post_id": 52,
+          "photo_id": "photo-54956355_457239055",
+          "image_url": "https://raw.githubusercontent.com/konversiya100/img/main/covers/atelier/post-10.jpg",
+          "attached": false
+        },
+        {
+          "post_id": 53,
+          "photo_id": "photo-54956355_457239056",
+          "image_url": "https://raw.githubusercontent.com/konversiya100/img/main/covers/atelier/post-11.jpg",
+          "attached": false
+        },
+        {
+          "post_id": 54,
+          "photo_id": "photo-54956355_457239057",
+          "image_url": "https://raw.githubusercontent.com/konversiya100/img/main/covers/atelier/post-12.jpg",
+          "attached": false
+        }
+      ]
+    }
+  }
+}
